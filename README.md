@@ -196,7 +196,6 @@ A few long sample lines were cut off in the problem statements. For those (`01_h
 
 - **Not secure.** The hash and RSA use toy parameters and tiny primes; don't use them for anything real.
 - **Console app:** handles one command per run (a loop until `Exit` is the obvious next step), and errors such as `Insufficient Funds` are logged as failures but not printed to the user.
-- **Money is stored as `float`.** Integer cents or a decimal type would be correct.
 - **Fixed-size arrays** (100 accounts/currencies) and variable-length arrays (a compiler extension in C++). `std::vector` would remove both.
 - Crypto helpers in the console app are free functions; they belong inside the classes.
 - Unknown currency or user names are mostly caught by validation, but some code paths still assume a lookup succeeds.
