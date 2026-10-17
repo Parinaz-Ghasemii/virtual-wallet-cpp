@@ -1,0 +1,19 @@
+6
+jibCoin 1
+Lumina 10
+StartBit 10
+NovaCoin 10
+AstroCoin 1
+QuantumCash 4
+967 3151 2704 113 2520 107
+10
+EXCHANGE QuantumCash Lumina 86
+DEPOSIT jibCoin 1004
+WITHDRAWL AstroCoin 2242
+WITHDRAWL QuantumCash 19
+DEPOSIT NovaCoin 639
+WITHDRAWL QuantumCash 1
+DEPOSIT jibCoin 1638
+WITHDRAWL AstroCoin 270
+WITHDRAWL StartBit 2055
+EXCHANGE NovaCoin StartBit 570

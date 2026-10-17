@@ -1,0 +1,19 @@
+6
+jibCoin 1
+NovaCoin 5
+Lumina 10
+StartBit 4
+QuantumCash 10
+Etherion 10
+938 703 1322 2009 410 3301
+10
+EXCHANGE jibCoin Etherion 744
+DEPOSIT Lumina 1430
+DEPOSIT QuantumCash 1258
+WITHDRAWL StartBit 2079
+EXCHANGE QuantumCash StartBit 1201
+DEPOSIT jibCoin 266
+EXCHANGE jibCoin StartBit 411
+EXCHANGE Lumina StartBit 2850
+EXCHANGE jibCoin StartBit 34
+DEPOSIT QuantumCash 765

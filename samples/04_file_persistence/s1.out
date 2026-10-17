@@ -1,0 +1,4 @@
+alice : DEPOSIT alice jibCoin 100 Successful!
+alice : TRANSFER alice bob etherion 20 Successful!
+bob : TRANSFER alice bob etherion 20 Successful!
+bob : WITHDRAW bob etherion 5 Successful!

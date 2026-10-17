@@ -1,0 +1,18 @@
+2
+jibCoin 1
+etherion 2
+SARAFI
+1000 500
+2
+alice
+100 50
+bob
+200 20
+7
+DEPOSIT alice jibCoin 100
+TRANSFER alice bob etherion 20
+REPORT alice
+WITHDRAW bob etherion 5
+FOO bar
+REPORT bob
+WITHDRAW alice jibCoin 5000

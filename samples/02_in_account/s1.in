@@ -1,0 +1,12 @@
+5
+jibCoin 1
+etherion 2
+novaCoin 5
+startbit 10
+astroCoin 4
+0 200 0 0 100
+4
+DEPOSIT novaCoin 200
+EXCHANGE novaCoin startbit 100
+WITHDRAWL novaCoin 100
+DEPOSIT jibCoin 100
